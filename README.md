@@ -1,7 +1,5 @@
 # Udacity_AI_Projects
-Project: Use a Pre-trained Image Classifier to Identify Dog Breeds
-
-# Project: Dog Breed Classifier
+# Project: Use a Pre-trained Image Classifier to Identify Dog Breeds
 
 ## Overview
 This project utilizes a pre-trained image classifier to identify dog breeds. The classifier is built on a deep learning model that has been trained on a diverse dataset of dog images. This README provides essential information to understand, use, and contribute to the project.
