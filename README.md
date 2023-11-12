@@ -15,7 +15,7 @@ The image classifier is built on the vgg, resnet and alexnet model architectures
 
 ## Project Structure
 - **pet_images:** Folder containing 40 sample pet images.
-- **uploaded_images:** Create this folder to hold your uploaded images.
+- **uploaded_images:** This is a folder containing a test dataset of four images -- Dog_1.jpeg (image of a dog), Dog_2.jpeg (Dog_01.jpeg 180° flipped/ upside down), bucket_01.jpeg (image of an object), Polar_bear_01.jpeg (image of animal that isn't a dog).
 - **classifier.py:** Classifier function for image classification.
 - **dognames.txt:** List of valid dog names from the classifier function and pet image files.
 - **imagenet1000_clsid_to_human.txt:** Dictionary converting classifier function IDs to text labels.
